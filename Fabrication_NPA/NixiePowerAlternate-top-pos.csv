@@ -1,0 +1,15 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C2,100nF,C_0805_2012Metric,154.6,-122,180,top
+C3,100nF,C_0805_2012Metric,165.5,-128.25,0,top
+C5,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,158.375,-145.861252,-90,top
+C6,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,175.5,-134.5,0,top
+C7,10uF,CP_EIA-3216-18_Kemet-A,186.3,-127,90,top
+C8,10uF,CP_EIA-3216-18_Kemet-A,185.5,-141,-90,top
+D1,~,D_SMB,172.26645,-116,90,top
+Q1,~,TO-263-2,162,-110,90,top
+R1,0.05,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,168.5,-122.5,-90,top
+R2,1.2M,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,158,-128,180,top
+R3,6.8K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,152,-128,180,top
+U1,AMS1117-5.0,SOT-223-3_TabPin2,165.5,-142.5,0,top
+U2,MAX1771ESA,SO-8_3.9x4.9mm_P1.27mm,162,-123,0,top
+U3,AMS1117-3.3,SOT-223-3_TabPin2,178,-129,0,top

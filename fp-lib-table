@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "CoilCraft")(type "KiCad")(uri "${KIPRJMOD}/CoilCraft.pretty")(options "")(descr ""))
+  (lib (name "Connector_Library")(type "KiCad")(uri "${KIPRJMOD}/Connector_Library.pretty")(options "")(descr ""))
+)

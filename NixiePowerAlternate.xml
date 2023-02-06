@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\Keyboards\NixiePowerAlternate\NixiePowerAlternate.kicad_sch</source>
+    <date>08/01/2023 14:46:27</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>NixiePowerAlternate.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>470µF</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="MPN">　UPW1V471MPD</field>
+        <field name="Manufacturer">Nichicon</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer" value="Nichicon"/>
+      <property name="MPN" value="　UPW1V471MPD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41612ed4-206d-4dd2-ac73-56b24c4ca740</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C28233</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part#">CL21B104KCFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part#" value="CL21B104KCFNNNE"/>
+      <property name="LCSC" value="C28233"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5acda873-6349-4778-9ed9-be7605a76f68</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C28233</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part#">CL21B104KCFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part#" value="CL21B104KCFNNNE"/>
+      <property name="LCSC" value="C28233"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca7188f4-edd2-4833-91a4-e5aae0626f3b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>3.3µF 400V</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Manufacturer">Nichicon</field>
+        <field name="Part#">UPW2G3R3MPD</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer" value="Nichicon"/>
+      <property name="Part#" value="UPW2G3R3MPD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c54e8fb-9130-4d13-b141-e3402ceea36d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C28323</field>
+        <field name="Part#">CL21B105KBFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part#" value="CL21B105KBFNNNE"/>
+      <property name="LCSC" value="C28323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>331f846c-b408-41df-8acc-5399e787fadb</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C28323</field>
+        <field name="MPN">CL21B105KBFNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer" value=""/>
+      <property name="MPN" value="CL21B105KBFNNNE"/>
+      <property name="LCSC" value="C28323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d125a2a5-cd1e-468e-81d5-207f1c1c1d1c</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="LCSC">C7171</field>
+        <field name="MPN">TAJA106K016RNJ</field>
+        <field name="Manufacturer">Kemet</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="MPN" value="TAJA106K016RNJ"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d261ca54-a977-47c9-88b4-40bdc5d2dbc2</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="LCSC">C7171</field>
+        <field name="MPN">TAJA106K016RNJ</field>
+        <field name="Manufacturer">Kemet</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="MPN" value="TAJA106K016RNJ"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b143a71-0356-457f-b6d7-42f82935a711</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>~</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1804250121_Vishay-Intertech-ES2F-E3-52T_C145321.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C145321</field>
+        <field name="MPN">ES2F-E3</field>
+        <field name="Manufacturer">Vishay</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Manufacturer" value="Vishay"/>
+      <property name="MPN" value="ES2F-E3"/>
+      <property name="LCSC" value="C145321"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1f04359-6e24-4a92-9d27-0dc0766087e6</tstamps>
+    </comp>
+    <comp ref="GND1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d16fc6b2-16ae-4841-bb38-af2a49ce6a1a</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>760f0a2a-72bf-42cf-a436-73cc4fe7dcec</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6509520-c672-459e-8f9d-f04a9a3170c0</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b86582c1-6d6c-4e76-a35f-ca4a86904872</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4520aafe-cd7b-4f12-8f46-fa1e1f63c698</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>12VDC</value>
+      <footprint>Connector_Library:BarrelJack_RS_805-1696</footprint>
+      <datasheet>https://www.cliffuk.co.uk/products/dcconnectors/FC681465.pdf</datasheet>
+      <fields>
+        <field name="RS">805-1696</field>
+      </fields>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="RS" value="805-1696"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dbcbcee-b2f9-4238-ade6-15e30ac09263</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b887759-f2af-425f-8933-708b4086eb10</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3f9a8d5-65fc-47ec-ab3f-ee407d0a1815</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29c2ee72-f30f-43f4-8023-7e5af316d54b</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>47µH</value>
+      <footprint>CoilCraft:L_CoilCraft_MSS1210</footprint>
+      <libsource lib="Device" part="L_Ferrite" description="Inductor with ferrite core"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af464688-d257-4200-84c6-1eb268450e96</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>~</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-2</footprint>
+      <fields>
+        <field name="LCSC">C39238</field>
+        <field name="MPN">IRF740</field>
+        <field name="Manufacturer">Vishay Intertech</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Manufacturer" value="Vishay Intertech"/>
+      <property name="MPN" value="IRF740"/>
+      <property name="LCSC" value="C39238"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>619652f3-7ff1-45f1-a915-80456dddca2b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0.05</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C149662</field>
+        <field name="MPN">CR1206FR050P05R</field>
+        <field name="Manufacturer">Ever Ohms Tech</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer" value="Ever Ohms Tech"/>
+      <property name="MPN" value="CR1206FR050P05R"/>
+      <property name="LCSC" value="C149662"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dbf8e23-256b-4644-8160-93c3e12988ca</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1.2M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C22107</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part#">1206W4F1204T5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part#" value="1206W4F1204T5E"/>
+      <property name="LCSC" value="C22107"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e65dcedd-ec8a-4128-b178-b566e74c1c46</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>6.8K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17772</field>
+        <field name="MPN">0805W8F6801T5E</field>
+        <field name="Manufacturer">UniRoyal</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer" value="UniRoyal"/>
+      <property name="MPN" value="0805W8F6801T5E"/>
+      <property name="LCSC" value="C17772"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a1629b4-387e-438d-90e1-ed4ee58c81af</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>5K</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical</footprint>
+      <fields>
+        <field name="MPN">3386P-1-502LF</field>
+        <field name="RSWWW">522-2772</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="MPN" value="3386P-1-502LF"/>
+      <property name="RSWWW" value="522-2772"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>330a9517-b917-4f23-ba10-dc98a671f631</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AMS1117-5.0</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C6187</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-5.0" description="1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223"/>
+      <property name="LCSC" value="C6187"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa532763-7a77-49a3-9a10-76490ba21f14</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MAX1771ESA</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX1771.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C407903</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="MAX1771xSA" description="12V or Adjustable, High-Efficiency, Low IQ, Step-Up DC-DC Controller, SO-8"/>
+      <property name="LCSC" value="C407903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30ca6a5b-e707-4b79-ae76-e032fff715d0</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C6186</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="LCSC" value="C6186"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixiePowerAlternate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96d9a111-146c-4297-97c7-8900d70fceaf</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Ferrite">
+      <description>Inductor with ferrite core</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Ferrite</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GDS">
+      <description>N-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Trim_US">
+      <description>Trim-potentiometer, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-5.0">
+      <description>1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-5.0</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="MAX1771xSA">
+      <description>12V or Adjustable, High-Efficiency, Low IQ, Step-Up DC-DC Controller, SO-8</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX1771.pdf</docs>
+      <footprints>
+        <fp>SO*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX1771xSA</field>
+        <field name="Footprint">Package_SO:SO-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX1771.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EXT" type="output"/>
+        <pin num="2" name="V+" type="power_in"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="SHDN" type="input"/>
+        <pin num="5" name="REF" type="passive"/>
+        <pin num="6" name="AGND" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="CS" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="GND1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="5" name="HV_SHDN">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="SHDN" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="REF" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="EXT" pintype="output"/>
+    </net>
+    <net code="10" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="CS" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
