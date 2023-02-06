@@ -1,5 +1,7 @@
 # NixiePowerAlternate
-A general purpose power supply for devices with a Nixie tube display.  
+A regulated power supply for devices with a Nixie tube display.  
+Vin is 9 to 24VDC.  Maximum input voltage is 36V. 
+Outputs are 180VDC, 5VDC and 3.3VDC. 
 
 Changes (TBD) for Rev 0.1
 Improve HV boost regulator. 
