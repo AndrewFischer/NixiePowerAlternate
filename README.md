@@ -5,6 +5,7 @@ Outputs are 175VDC, 5VDC and 3.3VDC.
 
 Rev 0.1 Changes
 Improve MAX1771 HV boost regulator, correcting errors in Rev. 0.  (done)
+
 (TBD) Replace linear 5.0 regulator with a TPS5430 buck regulator.  Power the 3.3V regulator from the 5V supply. 
 MAX1771 maximum input is 16.5V and the upper limit on Vin.
 
