@@ -1,0 +1,24 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C2,100nF,C_0805_2012Metric,154.6,-122,180,top
+C4,47pF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,158,-132.5,180,top
+C5,100nF,C_0805_2012Metric,165.5,-128.25,0,top
+C6,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,175.5,-134.5,0,top
+C7,100uF,CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder,186,-127.5,90,top
+C8,10nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.9,-144.7375,-90,top
+C9,100uF,CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder,185.5,-141,-90,top
+C10,100uF,CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder,179.4,-141.1,-90,top
+C11,100uF,CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder,174,-141.1,-90,top
+C12,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,135,-140,-90,top
+C13,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,139,-140,-90,top
+C14,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,143,-140,-90,top
+D1,ES2F,D_SMB,172.26645,-116,90,top
+D2,SS34,D_SMA_Handsoldering,145.8,-145.8,180,top
+Q1,,TO-263-2,162,-110,90,top
+R1,1.18M,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,158,-128,180,top
+R2,0.05,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,168.5,-122.5,-90,top
+R3,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,152,-128,180,top
+R4,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,157.4,-137,90,top
+R5,3.24K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,163.5,-135,0,top
+U1,MAX1771ESA,SO-8_3.9x4.9mm_P1.27mm,162,-123,0,top
+U2,AMS1117-3.3,SOT-223-3_TabPin2,178,-129,0,top
+U3,TPS5430DDA,TI_SO-PowerPAD-8_ThermalVias,151,-138,180,top
