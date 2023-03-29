@@ -12,3 +12,4 @@ MAX1771 maximum input is 16.5V which sets the upper limit on Vin.
 The TPS5430 and MAX1771 are inexpensive parts with reasonable performace. There are newer parts with better specs. Most are currently unavailable or beyond my ability to solder.
 The TPS5430 is sensitive to choice of output capacitor. See the datasheet and application notes if you stray from the BOM. 
 
+:Exclamation: Danger of electric shock.
